@@ -1,11 +1,32 @@
 {
-    "jupyter-lite-schema-version": 0,
-    "jupyter-config-data": {
-      "disabledExtensions": [
-        "@jupyterlab/drawio-extension",
-        "jupyterlab-kernel-spy",
-        "jupyterlab-tour"
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "appName": "Python Lab",
+
+    "disabledExtensions": [
+      "@jupyterlab/launcher-extension",
+      "@jupyterlab/extensionmanager-extension",
+      "@jupyterlab/drawio-extension",
+      "jupyterlab-kernel-spy",
+      "jupyterlab-tour"
+    ],
+
+    "defaultKernel": "python",
+
+    "pyodide": {
+      "packages": [
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "pyvista",
+        "seaborn"
       ]
     }
+  },
+
+  "litePluginSettings": {
+    "@jupyterlab/filebrowser-extension:browser": {
+      "showFileCheckboxes": false
+    }
   }
-  
+}
