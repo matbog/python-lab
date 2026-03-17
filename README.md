@@ -1,4 +1,5 @@
 # JupyterLite Demo
+test pour mettre des exo en ligne
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
