@@ -3,7 +3,7 @@
   "jupyter-config-data": {
     "appName": "Python Lab",
     "defaultKernel": "python",
-    "defaultUrl": "/lab/content/00_start.ipynb",
+    "defaultUrl": "/content/00_start.ipynb",
     "disabledExtensions": [
       "@jupyterlab/launcher-extension",
       "@jupyterlab/extensionmanager-extension",
