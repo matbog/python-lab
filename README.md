@@ -7,13 +7,11 @@
 👉 **Accéder directement au labo interactif :**  
 https://matbog.github.io/python-lab/lab/index.html
 
-
 ## 📚 À propos
 
 **Python Lab** est conçu pour de pratiquer Python directement dans le navigateur.
 
 Le site est conçue en complément du site : [Learn Python](https://matbog.gitbook.io/python).
-
 
 ## 🎯 Objectif pédagogique
 
@@ -43,7 +41,6 @@ Les notebooks sont organisés en plusieurs parties :
 - `11_projet_confort_ete.ipynb`
 - `12_projet_carte_climatique.ipynb`
 
-
 ## ⚙️ Fonctionnement
 
 Les notebooks sont exécutés **directement dans le navigateur** grâce à :
@@ -54,8 +51,6 @@ Les notebooks sont exécutés **directement dans le navigateur** grâce à :
 ✔️ Tout fonctionne en local (dans ton navigateur)  
 ✔️ Les données ne sont pas sauvegardées
 
-
-
 ## 🌐 Compatibilité
 
 JupyterLite fonctionne avec les navigateurs modernes :
@@ -64,7 +59,6 @@ JupyterLite fonctionne avec les navigateurs modernes :
 - Chromium / Chrome 89+
 - Edge récent
 
-
 ## ⚠️ Limitations
 
 - Pas d’accès au système de fichiers local
@@ -72,15 +66,12 @@ JupyterLite fonctionne avec les navigateurs modernes :
 - Les données ne sont pas persistées après rechargement
 - Certaines bibliothèques Python ne sont pas disponibles
 
----
-
 ## 💡 Conseils d’utilisation
 
 - Exécute les cellules avec **Shift + Enter**
 - Modifie librement le code
 - Recharge la page pour repartir de zéro
 - En cas de problème : *Kernel → Restart*
-
 
 ## 📄 Licence
 
@@ -93,6 +84,7 @@ Tu peux :
 
 ➡️ Voir le fichier `LICENSE` pour plus de détails.
 
----
+
+
 
 🚀 Bon apprentissage !
