@@ -36,10 +36,14 @@ Les notebooks sont organisés en plusieurs parties :
 - `03_pandas.ipynb`
 - `04_visualisation.ipynb`
 
+### 🟠 Utilisation avancée
+- `05_utilisation_avancee.ipynb`
+
 ### 🟣 Projets de synthèse
 - `10_projet_climat_villes.ipynb`
 - `11_projet_confort_ete.ipynb`
 - `12_projet_carte_climatique.ipynb`
+- `13_projet_objets_performance_climat.ipynb`
 
 ## ⚙️ Fonctionnement
 
